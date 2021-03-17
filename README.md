@@ -1,7 +1,8 @@
 # Today I Learned
 
-Never trust your memory.
-Contains short code and/or concepts that I have came across on my daily learning.
+Never trust your memory & learn in public.
+
+This repo contains short code and/or concepts that I have came across on my daily learning.
 
 ### Categories
 
@@ -13,6 +14,6 @@ Contains short code and/or concepts that I have came across on my daily learning
 
 - [Reduce Prototype Method](javascript/reduce-method.md)
 
-## About
+
 
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
